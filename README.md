@@ -8,25 +8,20 @@ Soy un Desarrollador Front End apasionado por crear interfaces de usuario atract
 - 🎓 **Formación:** Actualmente, curso mi segundo año en Ingeniería en Sistemas de Información. También he completado el curso de React JS Developer en Coderhouse.
 
 - 🌟 **Proyectos Destacados:**
-     - **SportyMaxx e-commerce:** Un completo e-commerce para la venta de ropa, con interfaces de administrador y cliente. Desarrollado con React JS, Node JS y Firebase.
-     - **Portafolio Personal:** Mi portafolio profesional desplegado en Vercel, diseñado para mostrar mi experiencia, habilidades y proyectos.
+     - **🛒 SportyMaxx e-commerce:** Un completo e-commerce para la venta de ropa, con interfaces de administrador y cliente. Desarrollado con React JS, Node JS y Firebase. [Ver web.](https://sporty-maxx.vercel.app/)
+     - **💼 Portafolio Personal:** Mi portafolio profesional desplegado en Vercel, diseñado para mostrar mi experiencia, habilidades y proyectos. [Ver web.](https://valentino-araya-portfolio.vercel.app/)
 
 - 🌐 **Tecnologías:**
-     - **Front End:** React JS, JavaScript (ES6+), HTML5, CSS3
-     - **Back End:** Node JS, Firebase, MongoDB
-     - **Herramientas:** Git/GitHub, Vercel
+     - **🎨 Front End:** React JS, JavaScript (ES6+), HTML5, CSS3
+     - **👨🏻‍💻 Back End:** Node JS, Firebase, MongoDB
+     - **🛠️ Herramientas:** Git/GitHub, Vercel
 
 ### 📚 Habilidades
 
-- **React JS & JavaScript:** Construcción de interfaces de usuario dinámicas y SPA (Single Page Applications).
-- **HTML5 & CSS3:** Creación de diseños modernos y responsivos.
-- **Control de Versiones:** Experiencia en la gestión de código con Git y GitHub.
-- **Resolución de Problemas:** Capacidad para resolver desafíos técnicos de manera eficiente, con un enfoque en la mejora continua.
-
-### 🛠️ Proyectos Relevantes
-
-- **SportyMaxx e-commerce:** Un e-commerce completo desarrollado para un cliente, con gestión de productos y usuarios. [Ver web.](https://sporty-maxx.vercel.app/)
-- **my-portfolio:** Mi portafolio personal, desarrollado en React y desplegado en Vercel. [Ver web.](https://valentino-araya-portfolio.vercel.app/)
+- **⚛️ React JS & JavaScript:** Construcción de interfaces de usuario dinámicas y SPA (Single Page Applications).
+- **🖌️ HTML5 & CSS3:** Creación de diseños modernos y responsivos.
+- **😺 Control de Versiones:** Experiencia en la gestión de código con Git y GitHub.
+- **✅ Resolución de Problemas:** Capacidad para resolver desafíos técnicos de manera eficiente, con un enfoque en la mejora continua.
 
 ### 🌱 Intereses
 
