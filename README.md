@@ -1,6 +1,6 @@
 # ¡Hola, soy Valentino Araya! 👋
 
-Soy un Desarrollador Front End apasionado por crear interfaces de usuario atractivas y funcionales. Actualmente, estudio Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, y combino mis estudios con proyectos freelance, en los cuales aplico y amplío mis conocimientos en desarrollo web.
+Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atractivas y funcionales. Actualmente, estudio Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, y combino mis estudios con proyectos freelance, en los cuales aplico y amplío mis conocimientos en desarrollo web.
 
 ### 🚀 Sobre Mí
 
