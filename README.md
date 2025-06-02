@@ -10,8 +10,8 @@ Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atrac
 ### 📚 Mis stats
 
 ![valentinoaraya's Stats](https://github-readme-stats.vercel.app/api?username=valentinoaraya&theme=react&show_icons=true&hide_border=false&count_private=true)
-![valentinoaraya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinoaraya&theme=react&hide_border=false)
 ![valentinoaraya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinoaraya&theme=react&show_icons=true&hide_border=false&layout=compact)
+![valentinoaraya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinoaraya&theme=react&hide_border=false)
 
 ### 🤝 Conectemos
 
