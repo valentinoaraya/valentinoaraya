@@ -7,27 +7,11 @@ Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atrac
 - 💻 **Experiencia:** Comencé mi viaje en el mundo de la programación en 2021, y desde entonces, he trabajado en diversos proyectos, especializándome en el desarrollo Front End.
 - 🎓 **Formación:** Actualmente, curso mi segundo año en Ingeniería en Sistemas de Información. También he completado el curso de React JS Developer en Coderhouse.
 
-- 🌟 **Proyectos Destacados:**
-     - **🛒 SportyMaxx e-commerce:** Un completo e-commerce para la venta de ropa, con interfaces de administrador y cliente. Desarrollado con React JS, Node JS y Firebase. [Ver web.](https://sporty-maxx.vercel.app/)
-     - **💼 Portafolio Personal:** Mi portafolio profesional desplegado en Vercel, diseñado para mostrar mi experiencia, habilidades y proyectos. [Ver web.](https://valentino-araya-portfolio.vercel.app/)
+### 📚 Mis stats
 
-- 🌐 **Tecnologías:**
-     - **🎨 Front End:** React JS, JavaScript (ES6+), HTML5, CSS3
-     - **👨🏻‍💻 Back End:** Node JS, Firebase, MongoDB
-     - **🛠️ Herramientas:** Git/GitHub, Vercel
-
-### 📚 Habilidades
-
-- **⚛️ React JS & JavaScript:** Construcción de interfaces de usuario dinámicas y SPA (Single Page Applications).
-- **🖌️ HTML5 & CSS3:** Creación de diseños modernos y responsivos.
-- **😺 Control de Versiones:** Experiencia en la gestión de código con Git y GitHub.
-- **✅ Resolución de Problemas:** Capacidad para resolver desafíos técnicos de manera eficiente, con un enfoque en la mejora continua.
-
-### 🌱 Intereses
-
-- Aprender y aplicar nuevas tecnologías en proyectos personales y profesionales.
-- Colaborar en proyectos open-source para contribuir a la comunidad.
-- Profundizar en el desarrollo de aplicaciones web con un enfoque en la experiencia de usuario (UX).
+![valentinoaraya's Stats](https://github-readme-stats.vercel.app/api?username=valentinoaraya&theme=react&show_icons=true&hide_border=false&count_private=true)
+![valentinoaraya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinoaraya&theme=react&hide_border=false)
+![valentinoaraya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinoaraya&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝 Conectemos
 
