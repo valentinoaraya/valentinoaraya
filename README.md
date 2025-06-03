@@ -1,11 +1,11 @@
-# ¡Hola, soy Valentino Araya! 👋
+# ¡Hola, soy Valentino! 👋
 
 Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atractivas y funcionales. Actualmente, estudio Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, y combino mis estudios con proyectos freelance, en los cuales aplico y amplío mis conocimientos en desarrollo web.
 
 ### 🚀 Sobre Mí
 
 - 💻 **Experiencia:** Comencé mi viaje en el mundo de la programación en 2021, y desde entonces, he trabajado en diversos proyectos, especializándome en el desarrollo Front End.
-- 🎓 **Formación:** Actualmente, curso mi segundo año en Ingeniería en Sistemas de Información. También he completado el curso de React JS Developer en Coderhouse.
+- 🎓 **Formación:** Actualmente, curso mi tercer año en Ingeniería en Sistemas de Información. También he completado la carrera de Full Stack Developer en Coderhouse.
 
 ### 📚 Mis stats
 
@@ -15,7 +15,11 @@ Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atrac
 
 ### 🤝 Conectemos
 
-- LinkedIn: [Valentino Araya](https://www.linkedin.com/in/valentino-araya-18915825b/)
+- LinkedIn: [Valentino Araya](https://www.linkedin.com/in/valentinoaraya/)
 - Email: valentinoaraya04@gmail.com
+
+### 💼 Mi portafolio
+
+- [valentinoaraya.vercel.app](https://valentinoaraya.vercel.app/)
 
 ¡Gracias por visitar mi perfil! Siempre estoy buscando aprender y colaborar en proyectos interesantes. No dudes en ponerte en contacto si quieres trabajar juntos o simplemente conectar.
