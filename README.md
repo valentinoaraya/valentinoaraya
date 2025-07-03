@@ -1,10 +1,10 @@
 # ¡Hola, soy Valentino! 👋
 
-Soy un Desarrollador Full Stack apasionado por crear interfaces de usuario atractivas y funcionales. Actualmente, estudio Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, y combino mis estudios con proyectos freelance, en los cuales aplico y amplío mis conocimientos en desarrollo web.
+Desarrollador Full Stack y Co-fundador de [Aedes](https://aedestech.vercel.app/), una startup de desarrollo de software con varios proyectos a cargo. Actualmente, estudio Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, y combino mis estudios con el trabajo de Aedes Tech.
 
 ### 🚀 Sobre Mí
 
-- 💻 **Experiencia:** Comencé mi viaje en el mundo de la programación en 2021, y desde entonces, he trabajado en diversos proyectos, especializándome en el desarrollo Front End.
+- 💻 **Experiencia:** Comencé mi viaje en el mundo de la programación en 2021, y desde entonces, he trabajado en diversos proyectos.
 - 🎓 **Formación:** Actualmente, curso mi tercer año en Ingeniería en Sistemas de Información. También he completado la carrera de Full Stack Developer en Coderhouse.
 
 ### 📚 Mis stats
