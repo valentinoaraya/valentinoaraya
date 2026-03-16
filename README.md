@@ -20,6 +20,6 @@ Desarrollador Full Stack y Co-fundador de [Aedes](https://aedestech.vercel.app/)
 
 ### 💼 Mi portafolio
 
-- [valentinoaraya.vercel.app](https://valentinoaraya.vercel.app/)
+- [valentinoaraya.com](https://valentinoaraya.com/)
 
 ¡Gracias por visitar mi perfil! Siempre estoy buscando aprender y colaborar en proyectos interesantes. No dudes en ponerte en contacto si quieres trabajar juntos o simplemente conectar.
